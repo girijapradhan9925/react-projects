@@ -1,8 +1,4 @@
-#### Tutorial Video
-
-(React Tutorial)[https://youtu.be/iZhV0bILFb0]
-
-## Corresponding Tutorial Topics
+## Corresponding Topics
 
 #### useState
 
